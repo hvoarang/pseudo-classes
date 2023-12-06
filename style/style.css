@@ -6,12 +6,15 @@ h5,
 h6,
 p,
 a {
+  padding-left: 10px;
   margin: 0;
 }
 
 * p,
 a {
+  padding: 20px;
   margin: 10px;
+  margin-left: 10px;
 }
 
 ul,
@@ -23,10 +26,15 @@ a {
   text-decoration: none;
 }
 
+.body {
+  background-color: gray
+}
+
 .container {
   width: 1600px;
   margin-left: auto;
   margin-right: auto;
+  background-color: white;
 }
 
 /* ============Псевдоклассы :first-child и :last-child===== */
