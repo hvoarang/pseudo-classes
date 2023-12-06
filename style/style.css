@@ -9,6 +9,11 @@ a {
   margin: 0;
 }
 
+* p,
+a {
+  margin: 10px;
+}
+
 ul,
 li,
 ol,
@@ -18,7 +23,7 @@ a {
   text-decoration: none;
 }
 
-.body {
+.container {
   width: 1600px;
   margin-left: auto;
   margin-right: auto;
