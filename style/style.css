@@ -1,0 +1,17 @@
+.body {
+  width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ============Псевдоклассы :first-child и :last-child===== */
+
+.list-item {
+  margin-bottom: 12px;
+}
+
+.list-item:last-child {
+  margin-bottom: 0;
+}
+
+/* ======= /Псевдоклассы :first-child и :last-child===== */
