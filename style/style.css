@@ -10,6 +10,10 @@ a {
   margin: 0;
 }
 
+body {
+  font-family: Monaco serif;
+}
+
 * p,
 a {
   margin-left: 20px;
