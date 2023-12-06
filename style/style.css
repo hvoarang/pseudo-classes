@@ -12,6 +12,7 @@ a {
 
 * p,
 a {
+  margin-left: 20px;
   padding: 20px;
   margin: 10px;
   margin-left: 10px;
@@ -24,6 +25,10 @@ a {
 
   list-style: none;
   text-decoration: none;
+}
+
+.box {
+  margin-left: 25px;
 }
 
 .body {
